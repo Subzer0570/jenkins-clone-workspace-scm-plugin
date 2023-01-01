@@ -1,4 +1,4 @@
-# Clone workspace SCM plugin
+gi# Clone workspace SCM plugin
 
 Archive the workspace from builds of one job and reuse them as the SCM source for another job.
 
